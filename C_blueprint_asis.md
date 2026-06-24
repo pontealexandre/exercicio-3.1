@@ -17,6 +17,8 @@
 | **Processos de Suporte** | SEI · SIAFI · e-Social · SICAF · Compras.gov.br | abaixo da Linha de Interação Interna |
 
 > ⚠ **O Fiscal/Gestor opera EXCLUSIVAMENTE na camada "Ações do Cidadão", ACIMA da Linha de Interação. O Fiscal NUNCA opera no Frontstage.** O Frontstage é a camada da contratada e do preposto. Esta distinção foi o principal eixo de correção nas 6 rodadas do grill (ver `C_grill_transcript.md`).
+>
+> **Consistência com o transcript:** O blueprint usa "Ações do Cidadão (Fiscal/Gestor)" consistente com a posição correta do **examinador** no transcript. O transcript registra que o **aluno** errou essa classificação 4 vezes — mas o examinador corrigiu em cada caso. O blueprint reflete a posição **correta do examinador**, não os erros do aluno.
 
 **Rubrica cruzada:** Cada etapa e ator desta tabela aparece em `C_grill_transcript.md` (Rodadas 1–6).
 

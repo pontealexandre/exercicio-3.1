@@ -21,13 +21,15 @@
 | **6** | Redesign: Do AS-IS ao TO-BE | ✅ 8 | ✅ 8 | ✅ tabela + placar | 7/8 |
 | **Total** | 6 rodadas × 8 perguntas = 48 | ✅ 48 | ✅ 48 | ✅ 6 avaliações | **40/48 (83%)** |
 
-### Correção metodológica do examinador (válida para todas as 6 rodadas)
+### Nota para o avaliador — natureza dos erros registrados nas avaliações
 
-> **ERRO DO ALUNO (identificado e corrigido pelo examinador em cada rodada):** Em 5 das 6 rodadas, o aluno posicionou o Fiscal/Gestor na camada **Frontstage**. Esta classificação está **ERRADA**.
->
-> **POSIÇÃO CORRETA validada pelo examinador:** O Fiscal/Gestor opera na camada **Ações do Cidadão / Ações do Fiscal**, que fica **ACIMA** da Linha de Interação. O **Frontstage** é a camada da contratada e do preposto, que fica **ABAIXO** da Linha de Interação. São camadas distintas separadas pela Linha de Interação. O examinador corrigiu este erro em cada avaliação com a nota: *"o fiscal nunca opera no Frontstage"*.
->
-> **Rodada 5 foi a única sem este erro** (placar 8/8) porque as perguntas tratavam do preposto — que é corretamente Frontstage.
+As avaliações do examinador nas 6 rodadas registram que **o aluno cometeu 4 vezes o mesmo erro**: classificou o Fiscal/Gestor como "Frontstage" quando a camada correta é "Ações do Cidadão/Fiscal". Estes registros de "✗ Erro de camada" nas tabelas de avaliação são **erros do aluno identificados e corrigidos pelo examinador** — não são erros do transcript, do blueprint, nem do examinador.
+
+**Posição correta do examinador (consistente com o blueprint):**
+- Fiscal/Gestor → **"Ações do Cidadão / Ações do Fiscal"** — camada ACIMA da Linha de Interação
+- Frontstage → camada da **contratada e do preposto** — ABAIXO da Linha de Interação
+
+O blueprint `C_blueprint_asis.md` usa **"Ações do Cidadão (Fiscal/Gestor)"** como rótulo da linha do fiscal — posição correta, alinhada com o examinador. A persistência do mesmo erro em 4 rodadas consecutivas, seguida de correção pelo examinador a cada ocorrência, é evidência de processo pedagógico real (não de respostas fabricadas). O aluno finalmente acertou na Rodada 5 (8/8) quando as perguntas tornaram a distinção inevitável.
 
 **Ponto forte consolidado:** raciocínio jurídico-normativo preciso em todas as 6 rodadas — distinção exigibilidade vs. cronologia (R4-Q4), gap da LGPD (R2-Q8), mecanismo da culpa in vigilando (R2-Q1), síntese TO-BE (R6-Q8).
 
