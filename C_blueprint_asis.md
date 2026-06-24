@@ -1,8 +1,23 @@
 # Service Blueprint AS-IS — Gestão e Fiscalização de Contratos na APF
 
 **Metodologia:** Shostack (1984) — 5 camadas, 3 linhas divisórias  
-**Perspectiva:** Fiscal/Gestor de Contrato (o "cliente" da jornada)  
-**Nota de adaptação:** No Shostack original, o cliente é o beneficiário externo. Aqui o **Fiscal/Gestor** ocupa esse papel — é o ator que vive a jornada, absorve o impacto das falhas sistêmicas e responde pessoalmente pelos resultados. A jornada começa no momento em que o servidor recebe a notificação da portaria (evento que pode ocorrer remotamente, fora do ambiente institucional) — não no balcão do serviço. A contratada/preposto opera no **Frontstage**. Evidências são artefatos que o Fiscal *encontra*, não os que ele *produz*.  
+**Perspectiva:** Fiscal/Gestor de Contrato (o "cliente" / "cidadão" da jornada)  
+
+**Posicionamento das camadas — leitura obrigatória:**
+
+| Camada Shostack | Quem opera | Posição relativa às linhas |
+|---|---|---|
+| **Evidências Físicas** | Artefatos encontrados pelo Fiscal | acima de tudo |
+| **Ações do Cidadão (Fiscal/Gestor)** | Fiscal Técnico · Fiscal Adm. · Gestor | **ACIMA** da Linha de Interação |
+| *— Linha de Interação —* | | |
+| **Frontstage** | Preposto · Contratada · RH/Adm (quando visível) | **ABAIXO** da Linha de Interação |
+| *— Linha de Visibilidade —* | | |
+| **Backstage** | Financeiro · Jurídico · Apoio de Contratos | abaixo da Linha de Visibilidade |
+| *— Linha de Interação Interna —* | | |
+| **Processos de Suporte** | SEI · SIAFI · e-Social · SICAF · Compras.gov.br | abaixo da Linha de Interação Interna |
+
+> ⚠ **O Fiscal/Gestor opera EXCLUSIVAMENTE na camada "Ações do Cidadão", ACIMA da Linha de Interação. O Fiscal NUNCA opera no Frontstage.** O Frontstage é a camada da contratada e do preposto. Esta distinção foi o principal eixo de correção nas 6 rodadas do grill (ver `C_grill_transcript.md`).
+
 **Rubrica cruzada:** Cada etapa e ator desta tabela aparece em `C_grill_transcript.md` (Rodadas 1–6).
 
 ---

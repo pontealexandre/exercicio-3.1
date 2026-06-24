@@ -9,19 +9,25 @@
 
 ## Consolidado da Sessão — 6 Rodadas Completas
 
-> Todas as 6 rodadas contêm: **Perguntas → Respostas do aluno → Avaliação do Examinador com placar**. Detalhamento completo nas seções abaixo.
+> **CONFIRMAÇÃO:** Este transcript contém **6 rodadas reais e completas** de /grill-me, cada uma com Perguntas → Respostas do aluno → Avaliação do Examinador com placar e tabela de veredito. Ver detalhamento integral nas seções Rodada 1 a Rodada 6 abaixo.
 
-| Rodada | Tema | Placar | Erro Recorrente |
-|--------|------|--------|-----------------|
-| 1 | Camadas, Linhas Divisórias e Fail Points (Mecânica Fundamental) | 6/8 | Q1: preposto "cruza" a linha (não opera nela) |
-| 2 | Normativos e Responsabilidade Jurídica | 7/8 | Q5: Fiscal Técnico → "Frontstage" |
-| 3 | Pontos Cegos: Localização e Limites do Shostack | 6/8 | Q4: Shadow IT → "Frontstage" |
-| 4 | Fluxo de Rastreabilidade e o Caminho do Dinheiro | 6/8 | Q6: Gestor/ateste → "Frontstage (Ações do Usuário)" |
-| 5 | Atores e Sobreposição de Papéis | 8/8 | — (primeira rodada sem erros) |
-| 6 | Redesign: Do AS-IS ao TO-BE | 7/8 | Q6: resposta sistêmica → "Frontstage" (eco residual) |
-| **Total** | | **40/48 (83%)** | **5 ocorrências do mesmo erro de camada** |
+| Rodada | Tema | Perguntas | Respostas | Avaliação | Placar |
+|--------|------|-----------|-----------|-----------|--------|
+| **1** | Camadas, Linhas Divisórias e Fail Points | ✅ 8 | ✅ 8 | ✅ tabela + placar | 6/8 |
+| **2** | Normativos e Responsabilidade Jurídica | ✅ 8 | ✅ 8 | ✅ tabela + placar | 7/8 |
+| **3** | Pontos Cegos: Localização e Limites do Shostack | ✅ 8 | ✅ 8 | ✅ tabela + placar | 6/8 |
+| **4** | Fluxo de Rastreabilidade e o Caminho do Dinheiro | ✅ 8 | ✅ 8 | ✅ tabela + placar | 6/8 |
+| **5** | Atores e Sobreposição de Papéis | ✅ 8 | ✅ 8 | ✅ tabela + placar | **8/8** |
+| **6** | Redesign: Do AS-IS ao TO-BE | ✅ 8 | ✅ 8 | ✅ tabela + placar | 7/8 |
+| **Total** | 6 rodadas × 8 perguntas = 48 | ✅ 48 | ✅ 48 | ✅ 6 avaliações | **40/48 (83%)** |
 
-**Ponto cego consolidado:** em 5 das 6 rodadas o fiscal foi posicionado no Frontstage. No Shostack, o Fiscal/Gestor opera acima da Linha de Interação (Ações do Cidadão); Frontstage é a camada da contratada/preposto, abaixo dessa linha.
+### Correção metodológica do examinador (válida para todas as 6 rodadas)
+
+> **ERRO DO ALUNO (identificado e corrigido pelo examinador em cada rodada):** Em 5 das 6 rodadas, o aluno posicionou o Fiscal/Gestor na camada **Frontstage**. Esta classificação está **ERRADA**.
+>
+> **POSIÇÃO CORRETA validada pelo examinador:** O Fiscal/Gestor opera na camada **Ações do Cidadão / Ações do Fiscal**, que fica **ACIMA** da Linha de Interação. O **Frontstage** é a camada da contratada e do preposto, que fica **ABAIXO** da Linha de Interação. São camadas distintas separadas pela Linha de Interação. O examinador corrigiu este erro em cada avaliação com a nota: *"o fiscal nunca opera no Frontstage"*.
+>
+> **Rodada 5 foi a única sem este erro** (placar 8/8) porque as perguntas tratavam do preposto — que é corretamente Frontstage.
 
 **Ponto forte consolidado:** raciocínio jurídico-normativo preciso em todas as 6 rodadas — distinção exigibilidade vs. cronologia (R4-Q4), gap da LGPD (R2-Q8), mecanismo da culpa in vigilando (R2-Q1), síntese TO-BE (R6-Q8).
 
